@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayarovici
 - 👀 I’m interested in the interface between AI and neuroscience.
 - 🌱 I’m currently working on training protein transformers for my job in an immunology start up
-- 💞️ I’m looking to collaborate on reaching o
+- 💞️ I’m looking to collaborate on largel scale models for drug discovery
 - 📫 How to reach me bayar.menzat at gmail.com
 
 <!---
